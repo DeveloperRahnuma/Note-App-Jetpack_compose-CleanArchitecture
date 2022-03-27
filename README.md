@@ -1,1 +1,1 @@
-# Note-App-Jetpack_compose-CleanArchitecture-
+# Note App (Jetpack_compose, CleanArchitecture)
